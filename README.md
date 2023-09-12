@@ -1,5 +1,7 @@
 # Employees #
 
+Let's get started!
+
 > ### Context:
 The purpose of this project is to showcase an end-to-end implementation by applying best practices using Astronomer Airflow, Polars, dbt and snowflake.
 This dataset contains information about employees in a company, including their educational backgrounds, work history, demographics, and employment-related factors. 
