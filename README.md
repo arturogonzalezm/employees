@@ -11,5 +11,5 @@ Note: PII data has been faked for privacy reasons while still providing valuable
 > ### Data Analytics:
 > This dataset can be used for various HR and workforce-related analyses, including employee retention, salary structure assessments, diversity and inclusion studies, and leave pattern analyses. Researchers, data analysts, and HR professionals can gain valuable insights from this dataset.
 
-> ### Author:
+### Author: ###
 This project was made by [**Arturo Gonzalez M.**]
