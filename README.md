@@ -1,7 +1,7 @@
 # Employees #
 
 > ### Context:
-The purpose of this protect is to showcase an end-to-end implementation by applying best practices using Astronomer Airflow, Polars, dbt and snowflake.
+The purpose of this project is to showcase an end-to-end implementation by applying best practices using Astronomer Airflow, Polars, dbt and snowflake.
 This dataset contains information about employees in a company, including their educational backgrounds, work history, demographics, and employment-related factors. 
 
 Note: PII data has been faked for privacy reasons while still providing valuable insights into the workforce from the Data Engineering perspective, Data Analysis, as well as ML perspective.
