@@ -13,7 +13,7 @@ Note: PII data has been faked for privacy reasons while still providing valuable
 > This dataset can be used for various HR and workforce-related analyses, including employee retention, salary structure assessments, diversity and inclusion studies, and leave pattern analyses. Researchers, data analysts, and HR professionals can gain valuable insights from this dataset.
 
 > ### MLOps:
->
+> Todo: Add ML use cases
 
 > ### Software Engineering:
 > Software Engineering best practices have been applied to this project, including:
