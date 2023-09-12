@@ -6,6 +6,18 @@ This dataset contains information about employees in a company, including their 
 
 Note: PII data has been faked for privacy reasons while still providing valuable insights into the workforce from the Data Engineering perspective, Data Analysis, as well as ML perspective.
 
+Columns for Analytics & ML purposes:
+
+1. Education: The educational qualifications of employees, including degree, institution, and field of study.
+2. Joining Year: The year each employee joined the company, indicating their length of service.
+3. City: The location or city where each employee is based or works.
+4. Payment Tier: Categorization of employees into different salary tiers.
+5. Age: The age of each employee, providing demographic insights.
+6. Gender: Gender identity of employees, promoting diversity analysis.
+7. Ever Benched: Indicates if an employee has ever been temporarily without assigned work.
+8. Experience in Current Domain: The number of years of experience employees have in their current field.
+9. Leave or Not: a target column
+
 > ### Data engineering & DataOps:
 > To showcase the best practices on how to implement basic data quality checks, PII data best practices and ETL pipelines.
 
